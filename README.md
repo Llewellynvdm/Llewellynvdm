@@ -10,5 +10,5 @@
 
 <small>All these component above where build with JCB</small>
 
-| <a rel="me" href="https://fosstodon.org/@llewellyn">Fosstodon</a> |
-| --- |
+| <a rel="me" href="https://fosstodon.org/@llewellyn">Fosstodon</a> | <a rel="me" href="https://social.joomla.org/@llewellyn">Joomla</a>
+| --- | --- |
