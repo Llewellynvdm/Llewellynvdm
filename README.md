@@ -9,3 +9,6 @@
 | <a href="https://git.vdm.dev/christian/Joomla-Sermon-Distributor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Llewellynvdm&repo=Joomla-Sermon-Distributor&layout=compact&theme=calm" alt="Sermon Distributor" /></a> | <a href="https://git.vdm.dev/joomla/Demo-Component"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Llewellynvdm&repo=Joomla-Demo-Component&layout=compact&theme=calm" alt="Demo Component" /></a> |
 
 <small>All these component above where build with JCB</small>
+
+| <a rel="me" href="https://fosstodon.org/@llewellyn">Fosstodon</a> |
+| --- |
